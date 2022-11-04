@@ -17,7 +17,7 @@ int main(){
 
         for (int i = 0; i < n; i++)
         {
-            if (s[i]=='O' || s[i]=='P' || s[i]=='Q' || s[i]=='R' || s[i]=='D')
+            if (s[i]=='O' || s[i]=='P' || s[i]=='Q' || s[i]=='R' || s[i]=='D' ||s[i]=='A')
             {
                 x=1;
             }
