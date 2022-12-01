@@ -23,7 +23,7 @@ int main(){
         
         for (int i = 0; i < 26; i++)
         {
-            ans = max(ans,min(c1[i],c2[i]));
+            ans = max(ans,max(c1[i],c2[i]));
         }
         
 
